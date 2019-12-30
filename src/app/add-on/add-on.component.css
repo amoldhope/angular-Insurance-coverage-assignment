@@ -1,0 +1,13 @@
+.add-ons{
+    background-color:yellowgreen;
+    padding: 70px;
+    margin-left: 40px;
+}
+img{
+    height: 40px;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+button{
+    display: block;
+}

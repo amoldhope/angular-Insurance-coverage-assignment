@@ -1,0 +1,36 @@
+.coverage{
+   background-color: aquamarine; 
+   padding: 70px;
+}
+
+label{
+    display: block;
+}
+.dot {
+    position: relative;
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    background: url("https://cdn4.vectorstock.com/i/1000x1000/90/43/check-mark-icon-on-white-background-icon-vector-22509043.jpg");
+    background-position: center;
+    background-size: 50px;
+    border-radius: 50%;
+    display: block;
+    margin-bottom: 12px;
+    text-align: center;
+  }
+
+  .check-circle{
+      position: absolute;
+      height: 25px;
+  }
+
+  .selected{
+    border: black;
+    color: brown;
+  }
+
+  selected-component{
+      border:23px;
+      background-color:red;
+  }
